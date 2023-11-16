@@ -7,7 +7,7 @@ name = "ts-router-post"
 version = "0.1.0"
 
 [[trigger.http]]
-route = "/..."
+route = "/example/..."
 component = "ts-router-post"
 
 [component.ts-router-post]

@@ -17,7 +17,7 @@ You will need [Spin 2.0 or greater](https://developer.fermyon.com/spin).
 Now you can use a `curl` call to execute a test POST request:
 
 ```console
-$ curl -XPOST http://localhost:3000/ --data 'Hello World'
+$ curl -XPOST http://localhost:3000/example --data 'Hello World'
 Hello World
 ```
 
